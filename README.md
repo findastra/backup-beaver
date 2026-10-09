@@ -14,5 +14,14 @@ Backup Beaver is a planned pet app for Astra's Pet Apps (the Cage). Its job and 
 
 ## Not yet created
 
-- GitHub repo (planned name: `findastra/backup-beaver`)
 - Registry entry and art
+
+## How to run it
+
+Open `index.html` in any modern browser. It shows a placeholder page and nothing else.
+
+## Limits
+
+- Placeholder only: no behaviour, data or storage yet.
+- No pet art yet. `sprite.json` is an empty stub.
+- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-apps/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer.
