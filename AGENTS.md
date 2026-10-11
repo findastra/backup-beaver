@@ -8,3 +8,5 @@ Rules for any assistant working here:
 - Work left for someone else is a card in a `handoffs/` folder. Registering this pet in the Cage is card 008 in `findastra/astras-pet-apps`. Do not edit the Cage from this repo.
 - Do not add keys, `.env` files or personal data. Public credit is Astra.
 - Record the model and date of any change in `pet.json` `built_with`.
+
+Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-apps.
