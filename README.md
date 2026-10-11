@@ -14,7 +14,7 @@ Backup Beaver is a planned pet app for Astra's Pet Apps (the Cage). Its job and 
 
 ## Not yet created
 
-- Registry entry and art
+- Registry entry and approved, activated art
 
 ## How to run it
 
@@ -23,5 +23,5 @@ Open `index.html` in any modern browser. It shows a placeholder page and nothing
 ## Limits
 
 - Placeholder only: no behaviour, data or storage yet.
-- No pet art yet. `sprite.json` is an empty stub.
+- [Draft pet art](draft-art/backup-beaver/sheet-20261011.png) has nine transparent mood frames, with the [prompt and provenance](draft-art/backup-beaver/manifest-20261011.json) saved beside it. It awaits Astra's approval and is not activated; `sprite.json` remains an empty stub.
 - Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-apps/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer.
