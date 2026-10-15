@@ -8,3 +8,5 @@ Rules for any assistant working here:
 - Work left for someone else is a card in a `handoffs/` folder. Registering this pet in the Cage is card 008 in `findastra/astras-pet-apps`. Do not edit the Cage from this repo.
 - Do not add keys, `.env` files or personal data. Public credit is Astra.
 - Record the model and date of any change in `pet.json` `built_with`.
+
+Shared original yellow-phone shell and Pet Collar UI by OpenAI Codex (GPT-6), 2026-10-15. Coins retired by owner. Existing program/host behavior is preserved; shared disconnected controls do not establish an L3 connection.
