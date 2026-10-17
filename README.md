@@ -32,6 +32,6 @@ Open `index.html` in any modern browser. It shows a placeholder page and nothing
 
 - Placeholder only: no behaviour, data or storage yet.
 - [Draft pet art](draft-art/backup-beaver/sheet-20261011.png) has nine transparent mood frames, with the [prompt and provenance](draft-art/backup-beaver/manifest-20261011.json) saved beside it. It awaits Astra's approval and is not activated; `sprite.json` remains an empty stub.
-- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-os/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer.
+- In the hub's registry as a pipeline pet ([pets.json](https://github.com/findastra/astras-pet-os/blob/main/pets.json)): it has its own repo and is not registered yet.
 
 Desktop appearance draft updated 2026-10-11: see [desktop details](desktop-pet-20261011.json). This changes the desktop pet, not application features.
