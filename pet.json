@@ -3,7 +3,7 @@
   "kind": "pet-app",
   "owner": "Astra",
   "sprite": "sprite.json",
-  "job": "Placeholder: a backup pet. The job is not decided yet.",
+  "job": "Like API Fairy for backups: keeps track of when the last backup ran, where it is, and how to get to it.",
   "runs_on": "Any modern browser (index.html).",
   "entry": "index.html",
   "status": "hatching",
@@ -11,10 +11,15 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; original draft art with OpenAI Codex (GPT-6), 2026-10-11",
   "updated": "2026-10-09",
   "desktop_pet": "desktop-pet-20261011.json",
-  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "my plan",
+    "needs": "a job: what should Backup Beaver back up?"
+  }
 }
